@@ -52,5 +52,6 @@ environments: when banks are looking to curtail marketing expenses, we can offer
 In terms of prescription methods, our focus is to answer another key question for banks, but ultimately for any company that utilizes direct marketing: is there an optimal medium through which we initiate contact with different user types? Through implementing optimal policy trees, we show a 50% improvement in average reward in predictions by optimally deciding whether to call a user or send them an email. This underlines in general business settings the power of understanding what channels of customer acquisition work best for different segments- an issue that issue modern tech businesses hinge on.
 
 
+## Final Note
 
 For a detailed overview of our methods and findings, please see the report found in the repo entitled Report.pdf or the slide deck entitled Presentation.pdf. Thanks!
