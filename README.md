@@ -34,7 +34,12 @@ In our case, we could characterize the identified clusters as:
 Banks can unlock strategic advantages by designing tailored products per market segment. For example, cluster 6 identifies freelances as a particular target group.
 
 
-### Prescriptive Tool on channel to contact (call vs email)
+### A Prescriptive Tool on the best channel to contact a customer (call vs email)
+
+The techniques here utilize the following paper:
+
+Amram, M., Dunn, J. & Zhuo, Y.D. Optimal policy trees. Mach Learn 111, 2741–2768 (2022). https://doi.org/10.1007/s10994-022-06128-5
+
 
 Our ultimate objective here is to decide the best medium to use for contacting a customer in order to maximize the number of people who make a deposit. To achieve that we utilize the feature “contact” which originally had the values “cellular” and “telephone” in a 2:1 ratio, and we just switch the “telephone” value to “email” in order to make our problem more realistic. Our objective now is to maximize the number of deposits by contacting the customer with the right medium. To achieve this objective, we utilize Optimal Prescriptive Policy Trees by IAI, assigning as outcome whether a customer made a deposit, as x the customer features and as treatment the medium used.
 
