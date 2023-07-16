@@ -1,4 +1,4 @@
-# Bank-Campaign-project
+# Predicting marketing campaign's potential clients for a bank
 This project was completed by Nikos Galanos and Ahmad Hussain, two Master of Business Analytics candidates from MIT, for the course 15.095 - Machine Learning through a Modern Optimization Lens with Dr. Dimitris Bertsimas.
 
 ## Introduction
